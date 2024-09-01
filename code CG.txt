@@ -4,4 +4,13 @@ This project creates three highlighted objects namely-
     3.ICOSAHEDRON
 And also showing the names of these objects when mouse pointer over it, and color changes accordingly
 
+The program includes interaction through mouse.
+•	When we place the cursor on the objects, it will turns into violet color and showing the  name of that object
+•	Right button – Display menu, camera
+•	Left button – Quit the program
+The program includes interaction through keyboard.
+•	x/X – Camera through X-axis
+•	y/Y – Camera through Y-axis
+•	z/Z – Camera through Z-axis
+'Automatically Showing the Names of the HighlightedObjects’ is a computer graphics OpenGL application which shows the names of the objects when mouse is over it. It is implemented by using different openGL functions and openGl libraries. Whenever the mouse cursor placed over it shows their names and hence it shows now in the purple color instead of grey. This is a simple project which makes the use of GLUT header files and respective functions
 
